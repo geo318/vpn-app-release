@@ -1,1 +1,19 @@
-
+{
+  "version": "1.0.0",
+  "notes": "First manual update test.",
+  "pub_date": "2025-11-10T00:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://example.com/macos-arm64.dmg",
+      "signature": "PLACEHOLDER_SIGNATURE"
+    },
+    "windows-x86_64": {
+      "url": "https://example.com/windows-x64.msi",
+      "signature": "PLACEHOLDER_SIGNATURE"
+    },
+    "linux-x86_64": {
+      "url": "https://example.com/linux-x64.AppImage",
+      "signature": "PLACEHOLDER_SIGNATURE"
+    }
+  }
+}
